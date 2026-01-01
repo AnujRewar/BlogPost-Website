@@ -1,1 +1,1 @@
-# django-basic-login-and-registration-page-
+# BlogPost Website using django-
